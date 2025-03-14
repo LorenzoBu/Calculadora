@@ -57,7 +57,7 @@ body{
     color: #000;
 }
 
-.button-wide{
-    grid-column: span 2;
+.button.dark-gray.wide{
+    grid-column: span 3;
     border-radius: 50px;
 }
